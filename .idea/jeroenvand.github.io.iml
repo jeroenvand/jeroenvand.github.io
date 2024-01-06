@@ -9,4 +9,7 @@
     <orderEntry type="library" name="normalize" level="application" />
     <orderEntry type="library" name="milligram" level="application" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="1c3ebb54-79b1-4a1e-9951-4b299db72624" />
+  </component>
 </module>
